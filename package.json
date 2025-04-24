@@ -1,0 +1,15 @@
+{
+    "name": "@kworaitthinan-avanade/hello-node-gh-package",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "A simple GitHub Package for testing",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kworaitthinan-avanade/hello-node-gh-package"
+    },
+    "license": "MIT",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+    }
+  }
+  
